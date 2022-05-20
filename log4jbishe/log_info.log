@@ -1,0 +1,181 @@
+2021-05-26 23:13:01.346 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 5852 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:13:01.348 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:13:02.222 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:13:02.224 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:13:02.249 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2021-05-26 23:13:02.722 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:13:02.730 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:13:02.730 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:13:02.730 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:13:02.805 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:13:02.805 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1407 ms
+2021-05-26 23:13:02.997 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:13:05.533 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:13:05.544 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:17:25.738 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 3276 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:17:25.740 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:17:26.503 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:17:26.504 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:17:26.531 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+2021-05-26 23:17:27.014 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:17:27.024 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:17:27.025 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:17:27.025 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:17:27.107 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:17:27.108 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1319 ms
+2021-05-26 23:17:27.296 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:17:28.734 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:17:28.757 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:17:33.640 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 12084 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:17:33.644 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:17:34.517 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:17:34.519 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:17:34.553 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2021-05-26 23:17:35.099 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:17:35.108 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:17:35.108 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:17:35.108 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:17:35.214 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:17:35.215 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1514 ms
+2021-05-26 23:17:35.419 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:17:36.951 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:17:36.966 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:17:55.416 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 19684 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:17:55.419 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:17:56.364 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:17:56.366 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:17:56.398 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2021-05-26 23:17:56.918 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:17:56.925 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:17:56.925 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:17:56.925 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:17:57.020 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:17:57.021 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1527 ms
+2021-05-26 23:17:57.424 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:17:58.948 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:17:58.971 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:18:11.698 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 20132 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:18:11.701 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:18:12.576 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:18:12.579 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:18:12.611 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20ms. Found 0 Redis repository interfaces.
+2021-05-26 23:18:13.161 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:18:13.169 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:18:13.170 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:18:13.170 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:18:13.268 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:18:13.269 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1507 ms
+2021-05-26 23:18:13.500 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:18:15.013 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:18:15.020 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:18:27.518 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 11872 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:18:27.521 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:18:28.366 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:18:28.368 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:18:28.400 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2021-05-26 23:18:28.938 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:18:28.947 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:18:28.947 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:18:28.948 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:18:29.045 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:18:29.046 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1463 ms
+2021-05-26 23:18:29.288 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:18:30.787 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:18:30.802 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:23:58.382 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 1128 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:23:58.385 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:23:59.159 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:23:59.161 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:23:59.189 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2021-05-26 23:23:59.647 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:23:59.656 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:23:59.657 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:23:59.657 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:23:59.738 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:23:59.738 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1303 ms
+2021-05-26 23:23:59.970 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:24:01.442 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:24:01.453 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:31:07.178 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 16680 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:31:07.180 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:31:07.924 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:31:07.925 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:31:07.951 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2021-05-26 23:31:08.382 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:31:08.392 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:31:08.392 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:31:08.392 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:31:08.468 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:31:08.468 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1238 ms
+2021-05-26 23:31:08.639 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:31:10.081 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:31:10.103 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:32:38.449 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 15624 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:32:38.452 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:32:39.206 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:32:39.209 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:32:39.251 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20ms. Found 0 Redis repository interfaces.
+2021-05-26 23:32:39.727 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:32:39.736 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:32:39.736 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:32:39.736 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:32:39.817 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:32:39.818 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1317 ms
+2021-05-26 23:32:39.986 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:32:41.415 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:32:41.425 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:35:19.584 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 7008 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:35:19.587 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:35:20.322 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:35:20.324 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:35:20.350 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2021-05-26 23:35:20.797 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:35:20.805 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:35:20.806 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:35:20.806 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:35:20.895 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:35:20.895 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1240 ms
+2021-05-26 23:35:21.063 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:35:22.521 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2021-05-26 23:35:22.553 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-05-26 23:37:29.615 [main] INFO  com.ccut.eduservice.EduApplication - Starting EduApplication on DESKTOP-I6INUR7 with PID 3876 (E:\working\shopping-center\service\service_edu\target\classes started by jiang in E:\working\shopping-center)
+2021-05-26 23:37:29.619 [main] INFO  com.ccut.eduservice.EduApplication - The following profiles are active: dev
+2021-05-26 23:37:30.475 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-26 23:37:30.477 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-26 23:37:30.505 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2021-05-26 23:37:30.976 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8001 (http)
+2021-05-26 23:37:30.983 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:37:30.984 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-26 23:37:30.984 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+2021-05-26 23:37:31.063 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-26 23:37:31.063 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1364 ms
+2021-05-26 23:37:31.221 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-26 23:37:31.964 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-05-26 23:37:33.204 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-05-26 23:37:33.343 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-26 23:37:34.075 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8001"]
+2021-05-26 23:37:34.121 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8001 (http) with context path ''
+2021-05-26 23:37:34.123 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-05-26 23:37:34.139 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-05-26 23:37:34.185 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-05-26 23:37:34.411 [main] INFO  com.ccut.eduservice.EduApplication - Started EduApplication in 5.278 seconds (JVM running for 5.912)
